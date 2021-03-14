@@ -1,5 +1,6 @@
 # De-identification-of-medical-information
 
+A conversation between a doctor and a patient contains private information. However, the amount of data is huge. Therefore, in this project, use "Named Entity Recognition" to extract them.
 
 ## Environment
 1. Torch 1.8.0
